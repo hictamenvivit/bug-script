@@ -1,0 +1,59 @@
+LE JUGE
+Pourquoi, si le problème a été identifié à XXh, le service n'a-t-il été coupé qu'à YYh ?
+
+PIERRE
+Ah ça c'est la partie amusante, c'est parce que le CTO avait décidé de tout faire passer par AWS...
+
+LE JUGE
+Le quoi ? Passer par quoi ? Je vous préviens, je n'ai ni le temps ni la patience pour réentendre les explications alambiquées de votre collègue !
+
+PIERRE
+En gros, le responsable technique avait décidé d'héberger nos services sur le cloud. Vous avez entendu parler du cloud ?
+
+LE JUGE
+Vaguement...
+
+PIERRE
+En gros il voulait jamais rien décider, parce qu'il savait qu'il était nul, donc il se cachait toujours derrière les décisions du siège. Du coup il avait mis en place un système où plus il y a de personnes connectées plus il faut un niveau de permission élevé pour interrompre le service. A partir d'un certain niveau ça ne peux être décidé qu'au siège, à Londres. Mais normalement le taux d'utilisation de l'app est largement assez faible pour qu'on soit capable de l'arrêter depuis le bureau de Paris.
+
+LE JUGE
+Alors quel est le problème ?
+
+PIERRE
+Ben c'est là que ça devient marrant, c'est que dès que les livreurs ont compris qu'il y avait moyen de récupérer des commandes gratuites, ils se sont passé le mot et tout le monde s'est connecté en même temps ! A un moment on a eu un taux d'utilisation de 250% !
+
+PIERRE rit, fort amusé par la situation. Les livreurs s'amusent aussi.
+
+LE JUGE
+Hum ! Je vois... Et qu'est-ce qui est arrivé au...
+(il consulte son dictionnaire)
+au CTO ?
+
+PIERRE
+Ah ben il s'est fait virer ! Depuis il est mort d'ailleurs.
+
+LE JUGE
+Il est mort ?
+
+PIERRE
+Oui, il s'est pris un bus.
+
+Tous le monde rit, Me Enfidha est amusée mais aussi affligée par l'attitude de ses clients.
+
+LE JUGE
+Silence !
+
+PIERRE
+Enfin en résumé c'était le gros bordel ce jour-là, ça courait partout dans les couloirs.
+
+LE JUGE
+Vous ne semblez pas très déférent envers votre employeur...
+
+PIERRE
+Ah mais c'est pas mon employeur, je suis en freelance moi !
+
+LE JUGE
+Quoi, vous aussi ?
+
+PIERRE
+Ah oui, les devs c'est souvent en freelance, c'est plus avantageux comme ça !

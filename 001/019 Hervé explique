@@ -1,0 +1,26 @@
+
+Placé devant un PowerPoint qui illuste ses propos, HERVE explique la situation.
+
+HERVE
+A 17h30, un bug a été introduit dans le code source de notre application. La brique logicielle responsable de la mise à jour du statut des commandes a eu un défaut, qui a remplacé la mise à jour des commandes par leur suppression. Pour le dire clairement, cinq minutes après avoir été retirée chez le restaurateur, la commande disparaissait tout simplement de nos serveurs, et donc de l'application. Les clients, voyant leur commande disparaitre, croyaient à une erreur, et commandaient à nouveau. Mais la nourriture avait bien été retirée, et disparaissait ainsi dans la nature. Les livreurs, qui ont vite compris le problème, se sont mis à l'exploiter en revenant chercher des commandes...
+
+ME ENFIDAH
+Objection !
+
+LE JUGE
+Allez-y.
+
+ME ENFIDAH
+C'est Monsieur qui impute à mes clients une intention malveillante, mais n'est-il pas logique qu'après avoir vu une commande disparaitre, un livreur n'en cherche pas une nouvelle ?
+
+HERVE
+(son PowerPoint montrant des graphiques pour illustrer son propos)
+On peut dire ça pour les premières commandes, mais quand certains en ont récupéré plus de 20 en une heure, il ne faut pas pousser mémé dans les orties.
+
+En voyant le tableau des commandes récupérées, qui fait office de *leaderboard*, les livreurs sourient.
+
+LE JUGE
+Bien, je vous remercie pour cette explication.
+
+
+
